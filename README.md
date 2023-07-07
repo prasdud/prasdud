@@ -1,5 +1,5 @@
 Hi, I’m @prasdud</br>
-I’m interested in everything computers.</br>
+I’m interested in all things software-related.</br>
 I’m currently learning.</br>
 How to reach me - prasdud@protonmail.com
 
