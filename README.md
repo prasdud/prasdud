@@ -1,7 +1,7 @@
 Hi, I’m @prasdud</br>
 I’m interested in all things software-related.</br>
 I’m currently learning.</br>
-I blog sometimes: https://prasdudrambles.github.io/
+I blog sometimes: https://prasdudrambles.github.io/</br>
 How to reach me - prasdud@protonmail.com
 
 <!---
