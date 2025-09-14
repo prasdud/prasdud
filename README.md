@@ -1,7 +1,7 @@
 Hi, I go by @prasdud</br>
 I’m interested mainly in malware analysis and inventing stuff.</br>
 I’m always working on something, and open to collaborations.</br>
-I also blog sometimes: https://prasdudrambles.github.io/</br>
+I also blog sometimes: https://blog.prasdud.com</br>
 I am not on any social media, you can connect with me via</br>
 mail - prasdud@protonmail.com</br>
 discord - prasdud</br>
