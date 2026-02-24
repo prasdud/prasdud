@@ -24,8 +24,8 @@
 
 ## Projects
 
-- 🧠 **[spacerep.app](https://spacerep.app)** ([repo](https://github.com/prasdud/spacerep)) — SaaS leveraging spaced repetition algorithms to build an all-in-one focus platform
-- 📇 **[cards](https://github.com/prasdud/cards)** ([repo](https://github.com/prasdud/cards)) — Tasteful digital business cards
+- 📇 **[ccards.co](https://ccards.co)** — Tasteful digital business cards
+- 🧠 **[spacerep.app](https://spacerep.app)** — SaaS leveraging spaced repetition algorithms to build an all-in-one focus platform
 - 🦫 **[gopher](https://github.com/prasdud/gopher)** — Minimal metrics collection and aggregator in Go, for people who don't want to waste an eternity setting up Grafana dashboards
 - 💬 **[GO-RTCS](https://github.com/prasdud/GO-RTCS)** — Real-time chat server built from scratch in Go using goroutines, channels, and WebSockets
 - 🔐 **[dragbin-crypto-demo](https://github.com/prasdud/dragbin-crypto-demo)** — Interactive demo showcasing DragBin's post-quantum encryption capabilities
