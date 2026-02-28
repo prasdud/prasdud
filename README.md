@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
-> Currently building cool stuff at [dragbin.com](https://dragbin.com), building [spacerep.app](https://spacerep.app), and contributing to open source.
+> Currently building cool stuff at [House of EdTech](https://houseofedtech.in/), building [ccards.co](https://ccards.co) and [spacerep.app](https://spacerep.app), and contributing to open source.
 
 🔗 **[blog.prasdud.com](https://blog.prasdud.com)** — I write sometimes.
 
