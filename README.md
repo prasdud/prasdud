@@ -1,6 +1,6 @@
 # Abdul
 
-<img src="ball.gif" width="280" align="right">
+<img src="ball.gif" width="800">
 
 currently at [House of EdTech](https://houseofedtech.in/) · building [ccards.co](https://ccards.co) and [spacerep.app](https://spacerep.app)
 
