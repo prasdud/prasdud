@@ -2,6 +2,11 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td><img src="header.gif" width="300"></td>
+    <td><img src="first.gif" width="300"></td>
+    <td><img src="header.gif" width="300"></td>
+  </tr>
+  <tr>
     <td><img src="anon-7.gif" width="300"></td>
     <td><img src="anon-8.gif" width="300"></td>
     <td><img src="anon-1.gif" width="300"></td>
