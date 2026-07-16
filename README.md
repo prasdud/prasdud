@@ -2,29 +2,18 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="header.gif" width="300"></td>
-    <td><img src="first.gif" width="300"></td>
-    <td><img src="header.gif" width="300"></td>
+    <td><img src="cat-1.gif" width="300"></td>
+    <td><img src="cat-2.gif" width="300"></td>
+    <td><img src="cat-3.gif" width="300"></td>
   </tr>
   <tr>
-    <td><img src="anon-7.gif" width="300"></td>
-    <td><img src="anon-8.gif" width="300"></td>
-    <td><img src="anon-1.gif" width="300"></td>
+    <td><img src="cat-4.gif" width="300"></td>
+    <td><img src="cat-5.gif" width="300"></td>
+    <td><img src="cat-6.gif" width="300"></td>
   </tr>
   <tr>
-    <td><img src="anon-10.gif" width="300"></td>
-    <td><img src="anon-9.gif" width="300"></td>
-    <td><img src="anon-3.gif" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="anon-5.gif" width="300"></td>
-    <td><img src="anon-6.gif" width="300"></td>
-    <td><img src="anon-11.gif" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="anon-4.gif" width="300"></td>
-    <td><img src="anon-2.gif" width="300"></td>
-    <td><img src="anon-12.gif" width="300"></td>
+    <td><img src="cat-7.gif" width="300"></td>
+    <td><img src="cat-8.gif" width="300"></td>
   </tr>
 </table>
 
