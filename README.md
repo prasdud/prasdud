@@ -14,7 +14,8 @@
   <tr>
     <td><img src="cat-7.gif" width="250"></td>
     <td><img src="cat-8.gif" width="250"></td>
-  </tr>
+    <td><img src="cat-7.gif" width="250"></td>
+</tr>
 </table>
 
 currently at [House of EdTech](https://houseofedtech.in/) · building [ccards.co](https://ccards.co) and [spacerep.app](https://spacerep.app)
